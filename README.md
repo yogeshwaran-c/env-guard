@@ -12,13 +12,13 @@ Type-safe environment variable validation and parsing with **zero dependencies**
 ## Install
 
 ```bash
-npm install typesafe-env
+npm install @yogeshyc/typesafe-env
 ```
 
 ## Quick Start
 
 ```ts
-import { createEnv } from "typesafe-env";
+import { createEnv } from "@yogeshyc/typesafe-env";
 
 const env = createEnv({
   PORT: { type: "port", default: 3000 },

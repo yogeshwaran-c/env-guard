@@ -1,5 +1,5 @@
 {
-  "name": "typesafe-env",
+  "name": "@yogeshyc/typesafe-env",
   "version": "0.1.0",
   "description": "Type-safe environment variable validation and parsing with zero dependencies",
   "main": "./dist/index.js",
